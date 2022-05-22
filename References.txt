@@ -10,3 +10,9 @@ IT19136134 | Kulatunga A.R
     https://www.kaggle.com/code/kavisekar/features-selection-in-multiple-linear-regression/notebook
 
 IT19146652 | Wickramasinghe V.W.A.N.R
+    https://www.youtube.com/watch?v=VCVhwjbI6h8
+    https://www.youtube.com/watch?v=WngoqVB6cXw
+    https://www.kaggle.com/code/prakashjyoti/linear-regression-with-feature-selection/notebook
+    https://youtu.be/VCVhwjbI6h8
+    https://youtu.be/dQNpSa-bq4M
+    https://www.kaggle.com/code/kavisekar/features-selection-in-multiple-linear-regression/notebook   
